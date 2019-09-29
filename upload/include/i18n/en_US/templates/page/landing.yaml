@@ -12,12 +12,7 @@ notes: >
 
 name: Landing
 body: >
-    <h1>Welcome to the Support Center</h1>
+    <h1>Bienvenido al centro de soporte - Compusoft</h1>
     <p>
-    In order to streamline support requests and better serve you, we utilize
-    a support ticket system. Every support request is assigned a unique
-    ticket number which you can use to track the progress and responses
-    online. For your reference we provide complete archives and history of
-    all your support requests. A valid email address is required to submit a
-    ticket.
+    Para agilizar las solicitudes de soporte y brindarle un mejor servicio, utilizamos un sistema de tickets de soporte. A cada solicitud de soporte se le asigna un número de ticket único que puede usar para rastrear el progreso y las respuestas en línea. Para su referencia, proporcionamos archivos completos e historial de todas sus solicitudes de soporte. Se requiere una dirección de correo electrónico válida para enviar un ticket
     </p>
